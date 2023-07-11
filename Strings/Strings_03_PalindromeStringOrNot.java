@@ -1,4 +1,4 @@
-package Strings;
+
 
 public class Strings_03_PalindromeStringOrNot 
 {
